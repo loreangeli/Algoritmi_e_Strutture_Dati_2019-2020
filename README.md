@@ -1,4 +1,4 @@
-# algorithm-and-data-structures
+# Algoritmica_e_Strutture_Dati_2019-2020
 Esercizi vari del corso di "Algoritmica e Strutture Dati 2019-2020" della laurea triennale di informatica a Pisa. 
 
 L'obiettivo del corso è quello di introdurre strutture dati e tecniche algoritmiche (di base) che consentano allo studente la risoluzione di problemi su sequenze, liste, alberi e grafi, in modo efficiente in tempo e/o spazio. Si discuteranno inoltre alcune tecniche analitiche per la valutazione delle prestazioni degli algoritmi, o delle limitazioni inerenti del calcolo.
